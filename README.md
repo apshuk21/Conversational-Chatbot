@@ -47,8 +47,5 @@ The **Conversational Chatbot** is an intelligent AI-driven system designed to fa
 - Integrate external APIs for enhanced functionality.
 - Deploy the chatbot in your preferred environment using Docker.
 
-## Contributing
-Contributions are welcome! Please fork the repository and submit a pull request with your changes.
-
 ## License
 This project is licensed under the [MIT License].
