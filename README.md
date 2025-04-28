@@ -1,7 +1,3 @@
-I couldn't access your GitHub repository directly, Apoorva, but I can help you craft a compelling `README.md` based on the project title and your expertise. Here's a template you can adapt:
-
----
-
 # Conversational Chatbot
 
 ## Overview
@@ -49,7 +45,3 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
-
----
-
-Feel free to tweak this based on your project's specifics. If you share more details about the chatbot's functionality or goals, I can refine the content further! 🚀
